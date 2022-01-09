@@ -198,10 +198,6 @@ body { overflow-x: hidden; }
 }
 .tm-form-inner { padding: 35px 30px 5px; }
 
-/*http://cssdeck.com/labs/different-css3-box-shadows-effects*/
-/*==================================================
- * Effect 2
- * ===============================================*/
 .effect2
 {
   position: relative;
@@ -236,7 +232,8 @@ body { overflow-x: hidden; }
 	height: 436px;
 }
 .tm-home-box-1-center {
-	margin: 0 auto;
+	width: 346px;
+	height: 436px;
 }
 .tm-home-box-1-right,
 .tm-home-box-2-right {
