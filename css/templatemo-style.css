@@ -223,12 +223,8 @@ body { overflow-x: hidden; }
 	height: 436px;
 }
 .tm-home-box-1-center {
-	width: 700px;
-	height: 436px;
-}
-.tm-home-box-1-right,
-.tm-home-box-2-right {
-	margin-left: auto;
+	width: 720px;
+	height: 410px;
 }
 .input-group-addon { border-radius: 0; }
 #hotelCarTabs {
@@ -271,10 +267,6 @@ body { overflow-x: hidden; }
 	padding-top: 20px;
 	padding-bottom: 20px;
 }
-.tm-copyright-text a {
-	color: #FCDD44;
-}
-
 .tm-copyright-text a:hover {
 	color: white;
 }
@@ -759,10 +751,6 @@ hr { border-top: 1px solid #111010; }
 }
 
 @media screen and (max-width: 767px) {
-	
-	/* http://www.impressivewebs.com/animate-display-block-none/
-	 * Comment by Jon Christensen
-	 */
 	.tm-nav.show {
 		opacity: 1;
 		height: auto;
